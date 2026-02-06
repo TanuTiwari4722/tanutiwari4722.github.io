@@ -6,8 +6,8 @@ website:
   title: "Tanu Tiwari"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+        # text: Home
       - href: about.qmd
         text: About me
         
