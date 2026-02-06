@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tanu Tiwari – Data Scientist & GenAI",
+    "section": "",
+    "text": "Tanu Tiwari\n\n\nData Scientist • Generative AI • Research\n\n\nI work at the intersection of Machine Learning, NLP and real-world systems. My interests include Large Language Models, Retrieval-Augmented Generation (RAG), time-series forecasting, and scientific applications of AI."
+  },
+  {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "My Blogs",
+    "section": "",
+    "text": "This is a dummy file.\n\nimport numpy as np \n\n\nfor i in range(5):\n    print(i)\n\n0\n1\n2\n3\n4"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Meet Tanu",
+    "section": "",
+    "text": "Hey, I am a Data Scientist working at Deloitte, combining technical rigor with strong communication to deliver measurable business impact.\nI translate complex data into clear actions: I design and deliver ML solutions that solve business problems, deploy reliably, and are trusted by stakeholders.\n“I focus on building practical, interpretable models that help teams make better decisions—fast. Collaboration and clear storytelling are how data becomes value.”"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "Meet Tanu",
+    "section": "Background",
+    "text": "Background\n\nRole: Senior Data Scientist, Deloitte\nExperience: 4+ years in analytics and machine learning across consulting and industry teams\nEducation: Bachelors in ECE, Jabalpur(M.P.)"
+  },
+  {
+    "objectID": "about.html#day-to-day",
+    "href": "about.html#day-to-day",
+    "title": "Meet Tanu",
+    "section": "Day-to-day",
+    "text": "Day-to-day\n\nTranslate client questions into analytical approaches and testable hypotheses\nBuild end-to-end ML solutions: data ingestion, feature engineering, model development, validation, and deployment\nProduce dashboards and reports that tell a clear story for stakeholders\nMentor junior analysts and collaborate with cross-functional teams (engineering, product, strategy)"
+  },
+  {
+    "objectID": "about.html#skills-tools",
+    "href": "about.html#skills-tools",
+    "title": "Meet Tanu",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\n\nProgramming: Python (pandas, scikit-learn, PyTorch)\nData platforms: SQL, Spark, BigQuery\nMLOps & deployment: Docker, MLflow, cloud services.\nVisualization: Tableau, Power BI, Plotly\nMethods: supervised/unsupervised learning, causal inference, time-series, A/B testing"
+  },
+  {
+    "objectID": "about.html#core-values",
+    "href": "about.html#core-values",
+    "title": "Meet Tanu",
+    "section": "Core Values",
+    "text": "Core Values\n\nClient-first: craft solutions tailored to business outcomes, not just technical novelty\nResponsible AI: prioritize fairness, interpretability, and reproducibility\nPragmatism: prefer simple, robust models that are maintainable in production"
+  },
+  {
+    "objectID": "about.html#project-interests",
+    "href": "about.html#project-interests",
+    "title": "Meet Tanu",
+    "section": "Project Interests",
+    "text": "Project Interests\n\nDemand forecasting that reduced inventory costs by 12%\nChurn-prediction model integrated into client CRM, enabling targeted retention campaigns\nExplainable ML pipeline for regulatory reporting and model governance"
+  }
+]
