@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "30e217a6"
+  },
+  "about.qmd": {
+    "about.html": "64319066"
+  },
+  "Introduction.ipynb": {
+    "Introduction.html": "d98f8cef"
+  },
+  "resume.qmd": {
+    "resume.html": "94804c4b"
+  },
+  "data-scientist-persona.qmd": {
+    "data-scientist-persona.html": "18317222"
+  }
+}

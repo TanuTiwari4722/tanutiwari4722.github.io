@@ -1,0 +1,43 @@
+---
+title: "Meet Tanu"
+format: html
+---
+
+Hey, I am a Data Scientist working at Deloitte, combining technical rigor with strong communication to deliver measurable business impact.
+
+I translate complex data into clear actions: I design and deliver ML solutions that solve business problems, deploy reliably, and are trusted by stakeholders.
+
+"I focus on building practical, interpretable models that help teams make better decisions—fast. Collaboration and clear storytelling are how data becomes value."
+
+## Background
+
+- Role: Senior Data Scientist, Deloitte
+- Experience: 4+ years in analytics and machine learning across consulting and industry teams
+- Education: Bachelors in ECE, Jabalpur(M.P.)
+
+## Day-to-day
+
+- Translate client questions into analytical approaches and testable hypotheses
+- Build end-to-end ML solutions: data ingestion, feature engineering, model development, validation, and deployment
+- Produce dashboards and reports that tell a clear story for stakeholders
+- Mentor junior analysts and collaborate with cross-functional teams (engineering, product, strategy)
+
+## Skills & Tools
+
+- Programming: Python (pandas, scikit-learn, PyTorch)
+- Data platforms: SQL, Spark, BigQuery
+- MLOps & deployment: Docker, MLflow, cloud services.
+- Visualization: Tableau, Power BI, Plotly
+- Methods: supervised/unsupervised learning, causal inference, time-series, A/B testing
+
+## Core Values
+
+- Client-first: craft solutions tailored to business outcomes, not just technical novelty
+- Responsible AI: prioritize fairness, interpretability, and reproducibility
+- Pragmatism: prefer simple, robust models that are maintainable in production
+
+## Project Interests
+
+- Demand forecasting that reduced inventory costs by 12%
+- Churn-prediction model integrated into client CRM, enabling targeted retention campaigns
+- Explainable ML pipeline for regulatory reporting and model governance

@@ -1,0 +1,47 @@
+---
+title: "Tanu Tiwari – Data Scientist & GenAI"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+page-layout: full
+---
+
+<div class="hero">
+
+  <img src="/profile.jpg" class="profile-pic"/>
+
+  <h1>Tanu Tiwari</h1>
+  <p class="tagline">
+    Data Scientist • Generative AI • Research
+  </p>
+
+  <p class="bio">
+    I work at the intersection of Machine Learning, NLP and real-world systems.
+    My interests include Large Language Models, Retrieval-Augmented Generation (RAG),
+    time-series forecasting, and scientific applications of AI.
+  </p>
+
+<div class="social-links">
+  <a href="https://github.com/TanuTiwari4722" target="_blank" aria-label="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+
+  <a href="https://twitter.com/TanuTiwari7999" target="_blank" aria-label="Twitter">
+    <i class="fab fa-twitter"></i>
+  </a>
+
+  <a href="https://www.linkedin.com/in/tanu-t-64593b141" target="_blank" aria-label="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+
+  <a href="mailto:tanutiwari4527@gmail.com" aria-label="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+</div>
+
+
+</div>
+
+<hr>
