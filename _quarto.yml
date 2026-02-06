@@ -14,7 +14,7 @@ website:
     right: 
       - href: resume.qmd
         text: Resume
-      - href: Introduction.ipynb
+      - href: posts.qmd
         text: Blogs
     tools:
       - icon: twitter

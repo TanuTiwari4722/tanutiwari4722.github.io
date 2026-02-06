@@ -54,5 +54,26 @@
     "title": "Meet Tanu",
     "section": "Project Interests",
     "text": "Project Interests\n\nDemand forecasting that reduced inventory costs by 12%\nChurn-prediction model integrated into client CRM, enabling targeted retention campaigns\nExplainable ML pipeline for regulatory reporting and model governance"
+  },
+  {
+    "objectID": "posts/2026/Post2.html",
+    "href": "posts/2026/Post2.html",
+    "title": "Post2",
+    "section": "",
+    "text": "This is a dummy file.\n\nimport numpy as np \n\n\nfor i in range(5):\n    print(i)\n\n0\n1\n2\n3\n4"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nPost1\n\n\n \n\n\n\n\n\n\nPost2\n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026/Post1.html",
+    "href": "posts/2026/Post1.html",
+    "title": "Post1",
+    "section": "",
+    "text": "This is a dummy file.\n\nimport numpy as np \n\n\nfor i in range(5):\n    print(i)\n\n0\n1\n2\n3\n4"
   }
 ]

@@ -13,5 +13,14 @@
   },
   "data-scientist-persona.qmd": {
     "data-scientist-persona.html": "18317222"
+  },
+  "posts.qmd": {
+    "posts.html": "4b78bbd4"
+  },
+  "posts/2026/Post1.ipynb": {
+    "Post1.html": "53ce0f7a"
+  },
+  "posts/2026/Post2.ipynb": {
+    "Post2.html": "a62a5370"
   }
 }
